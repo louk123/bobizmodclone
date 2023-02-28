@@ -6,3 +6,7 @@ https://instagram.com/noureddine_ouafy
 
 تــــــابعني على اليوتوب 
 https://youtube.com/@noureddineouafy2
+
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/louk123/TheMystic-Bot-MD)](https://repl.it/github/louk123/TheMystic-Bot-MD)  
