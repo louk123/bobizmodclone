@@ -9,4 +9,4 @@ https://youtube.com/@noureddineouafy2
 
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/louk123/TheMystic-Bot-MD)](https://repl.it/github/louk123/TheMystic-Bot-MD)  
+[![Run on Repl.it](https://repl.it/badge/github/louk123/bobizmodclone)](https://repl.it/github/louk123/bobizmodclone)  
